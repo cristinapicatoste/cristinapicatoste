@@ -1,5 +1,5 @@
 .header {
-  background-image: url(../../assets/abstract-background.jpg);
+  //background-image: url(../../assets/abstract-background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -8,9 +8,16 @@
   margin: 0;
   padding: 0;
   position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 
   h1 {
     font-family: "Abril Fatface", cursive;
-    // font-family: 'Vidaloka', serif;
+    font-size: 7rem;
+  }
+
+  .header-title {
+    padding-left: 60px;
   }
 }
