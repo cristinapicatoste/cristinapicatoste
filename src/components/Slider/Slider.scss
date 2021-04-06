@@ -1,0 +1,150 @@
+.square {
+  background-color: var(--grey);
+  width: 60%;
+  height: 80%;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+
+  .square-image {
+    background-color: white;
+    background-image: url(../../assets/profilepic.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: brightness(80%); // Más oscura
+    position: absolute;
+    margin: 50px;
+    width: 65%;
+    height: 80%;
+  }
+  .square-text {
+    position: absolute;
+    right: 0;
+    bottom: 25%;
+    // -webkit-transform: rotate(-90deg);
+    // -moz-transform: rotate(-90deg);
+    // -o-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1900px) {
+  .slider-image-side {
+    width: 52%;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+  .slider-image-side {
+    width: 45%;
+  }
+}
+
+.header {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 50vw;
+  height: 100vh;
+  margin-left: 200px;
+  padding: 0;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 10;
+}
+
+.size7 {
+  font-size: 7rem;
+}
+.greyLight {
+  color: var(--greyLight);
+}
+.greyMedium {
+  color: var(--greyMedium);
+}
+.grey {
+  color: var(--grey);
+}
+
+.fadeInRight {
+  animation: fadeInRight ease 2s;
+  -webkit-animation: fadeInRight ease 2s;
+}
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    transform: translateX(60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.fadeInLeft {
+  animation: fadeInLeft ease 2s;
+  -webkit-animation: fadeInLeft ease 2s;
+}
+
+@keyframes fadeInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-80px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.fadeInDown {
+  animation: fadeInDown ease 2s;
+  -webkit-animation: fadeInDown ease 2s;
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fadeInUp {
+  animation: fadeInUp ease 2s;
+  -webkit-animation: fadeInUp ease 2s;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(60px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fadeInUpRotated {
+  animation: fadeInUpRotated ease 2s;
+  -webkit-animation: fadeInUpRotated ease 2s;
+}
+
+@keyframes fadeInUpRotated {
+  0% {
+    opacity: 0;
+    transform: translateY(60px) rotate(-90deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) rotate(-90deg);
+  }
+}

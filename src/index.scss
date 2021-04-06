@@ -20,9 +20,10 @@
   --pink: #e9468a;
   --frambuesa: #8f0942;
   --sky: #4ce2f9;
-  --dark: #0b1e45;
-  --lightGrey: rgb(175, 175, 175);
-  --darkGrey: #414141;
+  --blue: #0b1e45;
+  --greyLight: #bcbcbc;
+  --greyMedium: #777777;
+  --grey: #414141;
 
   --clr-darkBackground: #131325;
   --clr-inactiveField: #141421;
@@ -33,15 +34,21 @@
 }
 
 body {
-  color: white;
+  color: var(--grey);
   font-family: "Lexend", sans-serif;
   // font-family: 'Abril Fatface', cursive;
   // font-family: 'Vidaloka', serif;
 }
 
+h1,
+h2 {
+  font-family: "Abril Fatface", cursive;
+  // font-family: "Prata", serif;
+}
+
 a {
   text-decoration: none;
-  color: white;
+  color: var(--greyMedium);
 }
 
 code {
