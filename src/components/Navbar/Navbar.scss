@@ -7,6 +7,18 @@
   position: absolute;
   z-index: 10;
 
+  .navbar-logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    p {
+      margin-left: 20px;
+      color: var(--greyMedium);
+    }
+  }
+
   .navbar-logo-container {
     height: 100%;
     width: 44px;

@@ -7,9 +7,12 @@ import './Navbar.scss';
 const Navbar = () => {
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo-container">
-        <Logo className="navbar-logo" />
-      </Link>
+      <div className="navbar-logo">        
+        <Link to="/" className="navbar-logo-container">
+          <Logo className="navbar-logo" />
+        </Link>
+        <p>Cristina Picatoste</p>
+      </div>
       <div className="navbar-options">
         <Link to="/portfolio" className="navbar-option">PORTFOLIO</Link>
         <Link to="/about" className="navbar-option">ABOUT</Link>

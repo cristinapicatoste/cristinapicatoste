@@ -1,6 +1,6 @@
 export const projects = [
  {
-   "id": 001,
+   "id": 1,
    "project": "Debona Jewels",
    "subtitle": "E-commerce",
    "description": "E-commerce developed with shopify and woocomerce. Currently being rebuild in React. Available soon!",
@@ -9,7 +9,7 @@ export const projects = [
    "image": "assets/portfolio/debona.png"
  },
  {
-   "id": 002,
+   "id": 2,
    "project": "Sound Mist",
    "subtitle": "Music everywhere",
    "description": "Music platform to upload and listen your favourite songs and artists!",
@@ -18,30 +18,30 @@ export const projects = [
    "image": "assets/portfolio/soundmist.png"
  },
  {
-   "id": 003,
+   "id": 3,
    "project": "Iris Therapy",
    "subtitle": "Grow, learn & evolve",
    "description": "A site to grow and develop. Therapies, trainings and events",
    "year": "2018",
-   "tech": "React, Node, MongoDB, Express, Mongoose & Atlas",
+   "tech": "Squarespace",
    "image": "assets/portfolio/iristherapy.png"
  },
  {
-   "id": 004,
+   "id": 4,
    "project": "TinDog",
    "subtitle": "Pet Lovers",
-   "description": "A site to grow and develop. Therapies, trainings and events",
+   "description": "The opportunity for our pets deserve to love and be loved",
    "year": "2019",
-   "tech": "React, Node, MongoDB, Express, Mongoose & Atlas",
+   "tech": "HTML & CSS & Bootstrap",
    "image": "assets/portfolio/tindog.png"
  },
  {
-   "id": 005,
+   "id": 5,
    "project": "Project 22",
    "subtitle": "Numerology Calculator",
-   "description": "A site to grow and develop. Therapies, trainings and events",
+   "description": "Know your numerology chart in a few seconds",
    "year": "2020",
-   "tech": "React, Node, MongoDB, Express, Mongoose & Atlas",
+   "tech": "JavaScript, HTML & CSS & MaterialUI",
    "image": "assets/portfolio/project22.png"
  },
 
