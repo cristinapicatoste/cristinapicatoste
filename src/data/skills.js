@@ -24,7 +24,7 @@ export const skills = [
     "position2": "Sales & Marketing",
     "experience": "8 years of experience building and implementing marketing, sales and communication strategies",
     "technologies": "Online & Offline Marketing Skills",
-    "calltoaction": "Contact me",
+    "calltoaction": "Let's talk!",
     // "image": "https://avatars.githubusercontent.com/u/67434308?v=4"
     "image": "https://images.unsplash.com/photo-1510751007277-36932aac9ebd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=977&q=80"
   }
