@@ -13,7 +13,7 @@ export const skills = [
     "id": 2,
     "position1": "UX/UI &",
     "position2": "Graphic Designer",
-    "experience": "More than 8 years creating and designing web and graphic projects for companies and private clients",
+    "experience": "More than 7 years creating and designing web and graphic projects for companies and private clients",
     "technologies": "Creativity + Illustrator, Photoshop & Indesign",
     "calltoaction": "Portfolio",
     "image": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"

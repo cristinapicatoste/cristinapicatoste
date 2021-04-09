@@ -1,9 +1,12 @@
-import { BrowserRouter as Router } from "react-router-dom";
-import Particles from 'react-particles-js';
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Navbar from './components/Navbar/Navbar';
-import Header from './Sections/Header/Header';
 import Social from "./components/Social/Social";
 import { Slider } from "./components/Slider/Slider";
+
+import Portfolio from "./pages/Portfolio/Portfolio";
+import About from "./pages/About/About";
+
+import * as route from './routes/routes';
 
 function App() {
 
@@ -12,9 +15,11 @@ function App() {
         <Router>
           <Navbar />
           <Social />
-          <Slider />
-          {/* <Header /> */}
-          <Particles />
+          <Switch>
+            <Route exact path={route.HOME} component={Slider} />
+            <Route exact path={route.PORTFOLIO} component={Portfolio} />
+            <Route exact path={route.ABOUT} component={About} />
+          </Switch>
         </Router>
     </div>
   );

@@ -40,6 +40,11 @@ body {
   // font-family: 'Vidaloka', serif;
 }
 
+button {
+  font-family: "Lexend", sans-serif;
+  font-size: 0.9rem;
+}
+
 h1,
 h2 {
   font-family: "Abril Fatface", cursive;
@@ -49,6 +54,7 @@ h2 {
 a {
   text-decoration: none;
   color: var(--greyMedium);
+  font-size: 0.9rem;
 }
 
 code {
