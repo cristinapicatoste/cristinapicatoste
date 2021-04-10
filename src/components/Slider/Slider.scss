@@ -1,11 +1,14 @@
-.size7 {
-  font-size: 7rem;
+.size5 {
+  font-size: 5rem;
 }
 .size4 {
   font-size: 4rem;
 }
 .size1 {
   font-size: 1.2rem;
+}
+.medweight {
+  font-weight: 300;
 }
 .greyLight {
   color: var(--greyLight);
@@ -69,7 +72,7 @@
   z-index: 1;
 }
 
-.experience {
+.experience-slider {
   width: 50%;
   justify-content: flex-end;
   text-align: right;
@@ -77,32 +80,8 @@
   padding-left: 4%;
 }
 
-.technologies {
+.technologies-slider {
   margin-top: 30px;
-}
-
-@media (min-width: 1200px) and (max-width: 1815px) {
-  .header {
-    width: 44vw;
-  }
-  .square {
-    width: 52%;
-  }
-  .experience {
-    padding-left: 20%;
-  }
-}
-
-@media (min-width: 600px) and (max-width: 1200px) {
-  .square {
-    width: 45%;
-  }
-  .square-image {
-    width: 35%;
-  }
-  .experience {
-    padding-left: 15%;
-  }
 }
 
 .fadeInOutLeft {
@@ -217,5 +196,44 @@
   100% {
     opacity: 0;
     transform: translateY(60px) rotate(-90deg);
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1815px) {
+  .header {
+    width: 47vw;
+  }
+  .square {
+    width: 52%;
+  }
+  .experience-slider {
+    padding-left: 15%;
+  }
+  .size5 {
+    font-size: 4rem;
+  }
+  .size1 {
+    font-size: 0.9rem;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 1200px) {
+  .header {
+    width: 40vw;
+  }
+  .square {
+    width: 45%;
+  }
+  .square-image {
+    width: 35%;
+  }
+  .experience-slider {
+    padding-left: 15%;    
+  }
+  .size5 {
+    font-size: 4rem;
+  }
+  .size1 {
+    font-size: 0.9rem;
   }
 }

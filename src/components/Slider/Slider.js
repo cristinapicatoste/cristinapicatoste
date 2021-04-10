@@ -20,15 +20,15 @@ export const Slider = () => {
 
   return (
     <>
-      <div className="header">        
-        <p className="fadeInOutDown greyMedium experience">{skills[skill].experience}</p>  
-        <h1 className="fadeInOutLeft size7 grey">{skills[skill].position1}</h1>
-        <h2 className="fadeInOutLeft size7 greyLight">{skills[skill].position2}</h2> 
-        <p className="fadeInOutUp greyMedium technologies">{skills[skill].technologies}</p> 
+      <div className="header">
+        <p className="fadeInOutDown size1 medweight greyMedium experience-slider">{skills[skill].experience}</p>
+        <h1 className="fadeInOutLeft size5 grey">{skills[skill].position1}</h1>
+        <h2 className="fadeInOutLeft size5 greyLight">{skills[skill].position2}</h2>
+        <p className="fadeInOutUp size1 greyMedium technologies-slider">{skills[skill].technologies}</p>
       </div>
       <div className="square">
-        <div className="square-image fadeInOutRight" style={{backgroundImage: `url(${skills[skill].image})`}}></div>
-        <h1 className="square-text greyLight size7 fadeInOutUpRotated">{skills[skill].calltoaction}</h1> 
+        <div className="square-image fadeInOutRight" style={{ backgroundImage: `url(${skills[skill].image})` }}></div>
+        <h1 className="square-text greyLight size5 fadeInOutUpRotated">{skills[skill].calltoaction}</h1>
       </div>
     </>
   )
