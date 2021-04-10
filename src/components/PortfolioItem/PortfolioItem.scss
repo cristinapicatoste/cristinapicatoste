@@ -1,0 +1,70 @@
+.item-wrap {
+    display: flex;
+    flex-direction: column;
+
+    .item-pic {
+        width: 450px;
+        height: 430px;
+
+        .item-back {
+            background-color: var(--grey);
+            width: 350px;
+            height: 350px;
+        }
+
+        .item-img {
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            filter: grayscale(80%);
+            position: absolute;
+            z-index: 5px;
+            margin: 50px;
+            width: 350px;
+            height: 350px;
+            overflow: hidden;
+
+            &:hover {
+                cursor: pointer;
+                filter: grayscale(0%);
+                transform: scale(1.1);
+                transition: transform 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
+            }
+        }
+
+        // .item-marc {
+        //     // background-color: transparent;
+        //     // border: 3px solid blueviolet;
+        //     // position: absolute;
+        //     // z-index: 10;
+        //     // width: 350px;
+        //     // height: 350px;
+        //     // // top: 
+        //     // margin: 25px;
+        // }
+    }
+
+    .item-text {
+        width: 400px;
+        margin-bottom: 50px;
+
+        h4 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+
+        .item-description {
+            font-weight: 300;
+            font-size: 1rem;
+            margin-bottom: 15px;
+            text-align: right;
+        }
+
+        .item-year-tech {
+            font-weight: 300;
+            font-size: 0.9rem;
+            text-align: center;
+        }
+    }
+
+}

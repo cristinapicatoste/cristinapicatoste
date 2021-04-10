@@ -1,0 +1,18 @@
+.portfolio-wrap {
+    margin-left: 15%;
+    margin-right: 10%;
+    padding-top: 10%;
+    display: flex;
+    flex-direction: column;
+
+    h1 {
+        font-size: 5rem;
+        margin-bottom: 30px;
+    }
+
+    .portfolio-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}

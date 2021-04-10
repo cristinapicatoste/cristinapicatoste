@@ -1,10 +1,27 @@
-import React from 'react'
+import React from 'react';
+import PortfolioItem from '../../components/PortfolioItem/PortfolioItem';
+import { projects } from '../../data/projects';
+
+import './Portfolio.scss';
+
 
 const Portfolio = () => {
   return (
-    <div>
-      <p>Portfolio</p>
-      
+    <div className="portfolio-wrap">
+      <h1>Porfolio</h1>
+      <div className="portfolio-items">
+        {projects.map(project => (
+          <PortfolioItem
+            key={project.id}
+            project={project.project}
+            subtitle={project.subtitle}
+            description={project.description}
+            year={project.year}
+            tech={project.tech}
+            image={project.image}
+          />
+        ))}
+      </div>
     </div>
   )
 }
