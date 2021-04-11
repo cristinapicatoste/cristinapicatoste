@@ -16,8 +16,7 @@ export const projects = [
     "description": "Music platform to upload and listen your favourite songs and artists!",
     "year": "2021",
     "tech": "React, Node, MongoDB, Express, Mongoose & Atlas",
-    "image": "https://github.com/cristinapicatoste/cristinapicatoste/blob/main/src/assets/portfolio/soundmix.png?raw=true"
-    // "image": "https://github.com/cristinapicatoste/cristinapicatoste/blob/main/src/assets/portfolio/soundmist.png?raw=true"
+    "image": "https://github.com/cristinapicatoste/cristinapicatoste/blob/main/src/assets/portfolio/soundmist.png?raw=true"
     // "image": "assets/portfolio/soundmist.png"
   },
   {
