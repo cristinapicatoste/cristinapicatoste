@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="navbar-logo">       
+      <div className="navbar-logo">
         <Link to={route.HOME} className="navbar-logo-container">
           <Logo className="navbar-logo" />
         </Link>
@@ -31,7 +31,7 @@ const Navbar = () => {
         <Link to={route.HOME} className="navbar-option">HOME</Link>
         <Link to={route.PORTFOLIO} className="navbar-option">PORTFOLIO</Link>
         <Link to={route.ABOUT} className="navbar-option">ABOUT</Link>
-        <Button onClick={handleOpenContact} variant="pink-or" size="110px">
+        <Button onClick={handleOpenContact} variant="blue-sky" size="130px">
           CONTACT
         </Button>
       </div>

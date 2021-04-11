@@ -7,7 +7,7 @@
         height: 430px;
 
         .item-back {
-            background-color: var(--greyMedium);
+            background-color: var(--greyLight);
             width: 350px;
             height: 350px;
         }
@@ -65,6 +65,11 @@
             font-weight: 300;
             font-size: 0.9rem;
             text-align: center;
+        }
+
+        .item-demo {
+          text-align: center;
+          margin-top: 20px;
         }
     }
 

@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from "react-router-dom";
 import { skills } from '../../data/skills';
+import * as route from '../../routes/routes';
 
 import './Slider.scss';
 
@@ -28,8 +30,18 @@ export const Slider = () => {
       </div>
       <div className="square">
         <div className="square-image fadeInOutRight" style={{ backgroundImage: `url(${skills[skill].image})` }}></div>
-        <h1 className="square-text greyLight size5 fadeInOutUpRotated">{skills[skill].calltoaction}</h1>
+        {skills[skill].calltoaction === 'Portfolio' &&
+          <Link to={route.PORTFOLIO}>
+            <h1 className="square-text greyLight size5 fadeInOutUpRotated">{skills[skill].calltoaction}</h1>
+          </Link>
+        }
+        {skills[skill].calltoaction === "Let's talk!" &&
+          <Link to={route.ABOUT}>
+            <h1 className="square-text greyLight size5 fadeInOutUpRotated">{skills[skill].calltoaction}</h1>
+          </Link>
+        }
       </div>
+
     </>
   )
 }

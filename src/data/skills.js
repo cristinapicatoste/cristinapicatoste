@@ -1,7 +1,7 @@
 export const skills = [
   {
     "id": 1,
-    "position1": "FULL",
+    "position1": "MERN",
     "position2": "Stack Developer",
     "experience": "More than 5 years of experience working with HTML and CSS, and 2 years of experience with JavaScript and React",
     "technologies": "MongoDB, Express, React & Node",
@@ -25,7 +25,7 @@ export const skills = [
     "position2": "Sales & Marketing",
     "experience": "8 years of experience building and implementing marketing, sales and communication strategies",
     "technologies": "Online & Offline Marketing Skills",
-    "calltoaction": "Let's talk!",
+    "calltoaction": "Know more!",
     // "image": "https://avatars.githubusercontent.com/u/67434308?v=4"
     "image": "https://images.unsplash.com/photo-1510751007277-36932aac9ebd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=977&q=80"
   }

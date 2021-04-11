@@ -42,7 +42,9 @@ body {
 
 button {
   font-family: "Lexend", sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 h1,
@@ -54,7 +56,7 @@ h2 {
 a {
   text-decoration: none;
   color: var(--greyMedium);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 
 code {
