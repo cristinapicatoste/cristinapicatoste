@@ -15,4 +15,19 @@
         flex-wrap: wrap;
         justify-content: space-between;
     }
+
+    .fadeInDown {
+        -webkit-animation: fadeInDown 2s ease;
+        animation: fadeInDown 2s ease;
+      }
+      @keyframes fadeInDown {
+        0% {
+          opacity: 0;
+          transform: translateY(-60px);
+        }
+        100% {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
 }

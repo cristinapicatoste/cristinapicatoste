@@ -8,7 +8,7 @@ import './Portfolio.scss';
 const Portfolio = () => {
   return (
     <div className="portfolio-wrap">
-      <h1>Porfolio</h1>
+      <h1 className="fadeInDown">Porfolio</h1>
       <div className="portfolio-items">
         {projects.map(project => (
           <PortfolioItem
