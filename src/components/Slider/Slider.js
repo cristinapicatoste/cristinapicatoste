@@ -6,7 +6,6 @@ import * as route from '../../routes/routes';
 import './Slider.scss';
 
 export const Slider = () => {
-  const mql = window.matchMedia('(max-width: 768px)');
   const [skill, setSkill] = useState(0);
 
   useEffect(() => {

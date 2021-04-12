@@ -1,8 +1,5 @@
 import React from 'react';
-import { Link } from "react-router-dom";
-
 import { Button } from '../Button/Button';
-
 
 import './PortfolioItem.scss';
 
@@ -16,7 +13,6 @@ const PortfolioItem = ({ project, title, subtitle, description, year, tech, imag
                 <div className="item-back fadeInLeft"></div>
             </div>
             <div className="item-text fadeInUp">
-                {/* <Link to={} component={} */}
                 <h4>{title}</h4>
                 <p className="item-description">{description}</p>
                 <p className="item-year-tech">{tech}</p>

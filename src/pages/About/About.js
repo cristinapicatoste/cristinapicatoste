@@ -13,14 +13,13 @@ const About = () => {
         <h2 className="fadeInLeft size5 greyLight">Picatoste</h2>
         <p className="fadeInUp size1 greyMedium technologies">
           Piano and guitar player, Thai food lover and F1 fan.
-          <br />
           Interested in tech, innovation, cinema, philosophy and psicology.
           <br />
           Based in Barcelona.
           </p>
       </div>
       <div className="about-square">
-        <div className="square-image fadeInRight" style={{ backgroundImage: `url(/images/crisabout.jpg})` }}></div>
+        <div className="square-image fadeInRight" style={{ backgroundImage: `url(/images/crisabout.jpg)` }}></div>
         <h1 className="square-text greyLight size5 fadeInUpRotated">About Me</h1>
       </div>
     </div>
