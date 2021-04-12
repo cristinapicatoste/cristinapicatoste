@@ -29,7 +29,7 @@ export const Slider = () => {
         <p className="fadeInOutUp size1 greyMedium technologies-slider">{skills[skill].technologies}</p>
       </div>
       <div className="square">
-        <div className="square-image fadeInOutRight" style={{ backgroundImage: `url(${skills[skill].image})` }}></div>
+        <div className="square-image fadeInOutRight" style={{ backgroundImage: `url(/images/${skills[skill].image})` }}></div>
         {skills[skill].calltoaction === 'Portfolio' &&
           <Link to={route.PORTFOLIO}>
             <h1 className="square-text greyLight size5 fadeInOutUpRotated">{skills[skill].calltoaction}</h1>

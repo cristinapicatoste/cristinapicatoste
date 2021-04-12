@@ -11,7 +11,7 @@ const PortfolioItem = ({ project, title, subtitle, description, year, tech, imag
         <div className="item-wrap">
             <div className="item-pic">
                 <div className="item-img-wrap">
-                    <div style={{ backgroundImage: `url(${image})` }} className="item-img fadeInRight"></div>
+                    <div style={{ backgroundImage: `url(/images/${image})` }} className="item-img fadeInRight"></div>
                 </div>
                 <div className="item-back fadeInLeft"></div>
             </div>
