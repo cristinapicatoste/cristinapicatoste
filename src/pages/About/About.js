@@ -3,7 +3,7 @@ import './About.scss';
 
 const About = () => {
   return (
-    <>
+    <div className="about-wrap">
       <div className="about-header">
         <p className="fadeInDown size1 medweight greyMedium experience">
           Creative, versatile, autonomous, analytical and hard-worker.
@@ -23,7 +23,7 @@ const About = () => {
         <div className="square-image fadeInRight" style={{ backgroundImage: `url(/images/crisabout.jpg})` }}></div>
         <h1 className="square-text greyLight size5 fadeInUpRotated">About Me</h1>
       </div>
-    </>
+    </div>
   )
 }
 

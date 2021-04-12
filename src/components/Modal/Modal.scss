@@ -58,3 +58,15 @@
 .child {
   padding: 20px 50px 30px;
 }
+
+
+@media (max-width: 768px) {
+  .modal-div {
+    width: 70%;
+  }
+
+  .child {
+    padding: 20px;
+  }
+
+}

@@ -6,6 +6,7 @@ import * as route from '../../routes/routes';
 import './Slider.scss';
 
 export const Slider = () => {
+  const mql = window.matchMedia('(max-width: 768px)');
   const [skill, setSkill] = useState(0);
 
   useEffect(() => {
@@ -21,7 +22,7 @@ export const Slider = () => {
   }, [skill])
 
   return (
-    <>
+    <div className="slider-wrap">
       <div className="header">
         <p className="fadeInOutDown size1 medweight greyMedium experience-slider">{skills[skill].experience}</p>
         <h1 className="fadeInOutLeft size5 grey">{skills[skill].position1}</h1>
@@ -42,7 +43,7 @@ export const Slider = () => {
         }
       </div>
 
-    </>
+    </div>
   )
 }
 

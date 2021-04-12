@@ -6,7 +6,8 @@ export const skills = [
     "experience": "More than 5 years of experience working with HTML and CSS, and 2 years of experience with JavaScript and React",
     "technologies": "MongoDB, Express, React & Node",
     "calltoaction": "Portfolio",
-    "image": "mern.jpg"
+    "image": "profilepic.jpg"
+    // "image": "mern.jpg"
   },
   {
     "id": 2,

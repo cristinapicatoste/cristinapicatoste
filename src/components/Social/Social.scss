@@ -20,3 +20,26 @@
     }
   }
 }
+
+// @media (min-width: 540px) and (max-width: 768px) {
+@media (max-width: 768px) {
+  .social {
+    width: 100vw;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    // align-content: space-around;
+    // justify-content: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    z-index: 50;
+    // background-color: white;
+  
+    .social-icons {
+      margin: 0;
+      height: 20px;
+      z-index: 51;
+    }
+  }
+}
