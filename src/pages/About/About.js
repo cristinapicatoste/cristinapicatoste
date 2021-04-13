@@ -13,7 +13,7 @@ const About = () => {
         <h2 className="fadeInLeft size5 greyLight">Picatoste</h2>
         <p className="fadeInUp size1 greyMedium technologies">
           Piano and guitar player, Thai food lover and F1 fan.
-          Interested in tech, innovation, cinema, philosophy and psicology.
+          Interested in tech, innovation, cinema, philosophy and psychology.
           <br />
           Based in Barcelona.
           </p>
