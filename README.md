@@ -1,6 +1,6 @@
 ### Hey!
 
-This is Cristina! I'm a MERN Developer with a Marketing, Sales & Design background. Passionate for innovation, new techologies and learning.
+This is Cristina! I'm a Software Developer with a Marketing, Sales & UX background. Passionate for innovation, new techologies and learning.
 
 <code><img alt="Javascript" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img alt="Html" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
