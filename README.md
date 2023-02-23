@@ -14,8 +14,8 @@ This is Cristina! I'm a Software Developer with a Marketing, Sales & UX backgrou
 <code><img alt="Sass" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 #### Frameworks & Libraries
-<code><img alt="NestJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/nestjs.png"></code>
 <code><img alt="Express" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_express.png"></code>
+<code><img alt="NestJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/nestjs.png"></code>
 <code><img alt="React" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_react.png"></code>
 <code><img alt="NextJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_nextjs.png"></code>
 <code><img alt="Tailwind" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_tailwind.png"></code>
