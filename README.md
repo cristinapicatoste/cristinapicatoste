@@ -18,9 +18,9 @@ This is Cristina! I'm a Software Developer with a Marketing, Sales & UX backgrou
 <code><img alt="Express" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_express.png"></code>
 <code><img alt="React" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_react.png"></code>
 <code><img alt="NextJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_nextjs.png"></code>
-<code><img alt="Tailwind" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Bootstrap" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="MaterialUI" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Tailwind" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_tailwind.png"></code>
+<code><img alt="Bootstrap" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_bootstrap.png"></code>
+<code><img alt="MaterialUI" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_materialui.png"></code>
 
 #### Data Bases & Cloud
 <code><img alt="PostgreSQL" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_postgres.png"></code>
@@ -30,25 +30,18 @@ This is Cristina! I'm a Software Developer with a Marketing, Sales & UX backgrou
 <code><img alt="Vercel" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_vercel.png"></code>
 
 #### Ecommerce & CMS
-<code><img alt="Shopify" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Squarespace" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Wordpress" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Sanity" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Shopify" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_shopify.png"></code>
+<code><img alt="Squarespace" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-squarespace.png"></code>
+<code><img alt="Wordpress" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-wordpress.png"></code>
+<code><img alt="Sanity" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_sanity.png"></code>
 
 #### Graphic Design
-<code><img alt="Illustrator" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Photoshop" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Indesign" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="XD" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
-<code><img alt="Dreamveawer" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Illustrator" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-illustrator.png"></code>
+<code><img alt="Photoshop" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-photoshop.png"></code>
+<code><img alt="Indesign" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-indesign.png"></code>
+<code><img alt="XD" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-xd.png"></code>
+<code><img alt="Dreamveawer" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo-dreamveawer.png"></code>
 
-<code><img alt="Javascript" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img alt="React" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="Nodejs" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img alt="Express" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img alt="Mongoose" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
-<code><img alt="Mongodb" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinapicatoste&show_icons=true&theme=radical)](https://github.com/cristinapicatoste/github-readme-stats)
 
