@@ -8,7 +8,6 @@ This is Cristina! I'm a Software Developer with a Marketing, Sales & UX backgrou
 <code><img alt="Javascript" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_javascript.png"></code>
 <code><img alt="Java" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_java.png"></code>
 <code><img alt="Golang" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_go.png"></code>
-
 <code><img alt="Html" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img alt="Css" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img alt="Sass" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
