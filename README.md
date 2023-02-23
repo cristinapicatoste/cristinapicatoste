@@ -3,7 +3,7 @@
 This is Cristina! I'm a Software Developer with a Marketing, Sales & UX background. Passionate for innovation, new techologies and learning.
 
 #### Languages
-<code><img alt="Node" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_node.png"></code>
+<code><img alt="Node" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img alt="TypeScript" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_typescript.png"></code>
 <code><img alt="Javascript" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_javascript.png"></code>
 <code><img alt="Java" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_java.png"></code>
