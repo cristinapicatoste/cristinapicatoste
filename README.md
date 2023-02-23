@@ -14,20 +14,20 @@ This is Cristina! I'm a Software Developer with a Marketing, Sales & UX backgrou
 <code><img alt="Sass" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 #### Frameworks & Libraries
-<code><img alt="NestJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/nestjs"></code>
-<code><img alt="Express" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_express"></code>
-<code><img alt="React" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_react"></code>
-<code><img alt="NextJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_nextjs"></code>
+<code><img alt="NestJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/nestjs.png"></code>
+<code><img alt="Express" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_express.png"></code>
+<code><img alt="React" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_react.png"></code>
+<code><img alt="NextJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_nextjs.png"></code>
 <code><img alt="Tailwind" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
 <code><img alt="Bootstrap" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
 <code><img alt="MaterialUI" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
 
 #### Data Bases & Cloud
-<code><img alt="PostgreSQL" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_postgres"></code>
-<code><img alt="MongoDB" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_mongodb"></code>
-<code><img alt="Docker" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_docker"></code>
-<code><img alt="Kubernetes" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_kubernetes"></code>
-<code><img alt="Vercel" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_vercel"></code>
+<code><img alt="PostgreSQL" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_postgres.png"></code>
+<code><img alt="MongoDB" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_mongodb.png"></code>
+<code><img alt="Docker" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_docker.png"></code>
+<code><img alt="Kubernetes" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_kubernetes.png"></code>
+<code><img alt="Vercel" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_vercel.png"></code>
 
 #### Ecommerce & CMS
 <code><img alt="Shopify" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
