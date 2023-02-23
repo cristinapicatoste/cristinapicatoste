@@ -1,6 +1,6 @@
 ### Hey!
 
-This is Cristina! I'm a Software Developer with a Marketing, Sales & UX background. Passionate for innovation, new techologies and learning.
+This is Cristina! I'm a Software Developer with Product and Marketing background. Passionate for innovation, new techologies and learning.
 
 #### Languages
 <code><img alt="Node" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
