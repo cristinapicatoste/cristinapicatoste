@@ -2,10 +2,47 @@
 
 This is Cristina! I'm a Software Developer with a Marketing, Sales & UX background. Passionate for innovation, new techologies and learning.
 
-<code><img alt="Javascript" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+#### Languages
+<code><img alt="Node" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_node.png"></code>
+<code><img alt="TypeScript" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_typescript.png"></code>
+<code><img alt="Javascript" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_javascript.png"></code>
+<code><img alt="Java" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_java.png"></code>
+<code><img alt="Golang" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_go.png"></code>
+
 <code><img alt="Html" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img alt="Css" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img alt="Sass" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+
+#### Frameworks & Libraries
+<code><img alt="NestJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/nestjs"></code>
+<code><img alt="Express" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_express"></code>
+<code><img alt="React" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_react"></code>
+<code><img alt="NextJs" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_nextjs"></code>
+<code><img alt="Tailwind" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Bootstrap" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="MaterialUI" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+
+#### Data Bases & Cloud
+<code><img alt="PostgreSQL" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_postgres"></code>
+<code><img alt="MongoDB" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_mongodb"></code>
+<code><img alt="Docker" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_docker"></code>
+<code><img alt="Kubernetes" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_kubernetes"></code>
+<code><img alt="Vercel" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/logo_vercel"></code>
+
+#### Ecommerce & CMS
+<code><img alt="Shopify" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Squarespace" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Wordpress" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Sanity" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+
+#### Graphic Design
+<code><img alt="Illustrator" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Photoshop" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Indesign" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="XD" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+<code><img alt="Dreamveawer" height="33" src="https://github.com/cristinapicatoste/cristinapicatoste/blob/main/assets/"></code>
+
+<code><img alt="Javascript" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <code><img alt="React" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img alt="Nodejs" height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
